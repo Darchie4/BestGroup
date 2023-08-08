@@ -1,2 +1,2 @@
 Navn: mads
-
+Fav-color: Red
